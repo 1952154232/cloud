@@ -1,0 +1,10 @@
+selenium
+time
+pandas
+numpy
+os
+plotly.express
+pandas
+streamlit
+plotly.graph_objects
+pycountry
