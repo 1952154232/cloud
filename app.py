@@ -14,7 +14,7 @@ def get_data(url):
 
 @st.cache_data
 def get_qs_data(persist="disk"):
-    url = "https://github.com/1952154232/cloud/blob/main/qs_ranking_iso.xlsx"
+    url = r'C:\\Users\19521\\Desktop\\我的论文\\代码\\qs_ranking_iso.xlsx'
     return get_data(url)
 
 
