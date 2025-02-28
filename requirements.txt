@@ -1,7 +1,6 @@
 selenium
 pandas
 numpy
-os
 plotly
 pandas
 streamlit
