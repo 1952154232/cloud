@@ -3,7 +3,7 @@ time
 pandas
 numpy
 os
-plotly.express
+plotly
 pandas
 streamlit
 plotly
