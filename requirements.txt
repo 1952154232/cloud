@@ -6,5 +6,5 @@ os
 plotly.express
 pandas
 streamlit
-plotly.graph_objects
+plotly
 pycountry
